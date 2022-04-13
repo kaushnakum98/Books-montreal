@@ -1,0 +1,2 @@
+#n:purchases_insert
+#i:(varchar(12),char(12),int(11),varchar(200))
